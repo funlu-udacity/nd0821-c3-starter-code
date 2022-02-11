@@ -1,0 +1,7 @@
+root - INFO - Function testing is starting...
+root - INFO - train models successfully ran: SUCCESS
+root - INFO - train_models function test ended. Please review the log for details.
+root - INFO - Model returned predictions as expected. No error detected.
+root - INFO - Precision is in desired range. Its value is 73.35375191424195
+root - ERROR - Recall is too low. Check your model and retrain as needed: 0
+root - INFO - Function testing ended. Please review the log for details.
