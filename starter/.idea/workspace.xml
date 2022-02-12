@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b5dd855-b474-4336-9ebd-0fa6f8a80a13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dvc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/confusion.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/confusion_normalized.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/linear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/scatter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/simple.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvc/plots/smooth.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dvcignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Census.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/plots/confusion.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/plots/confusion_normalized.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/plots/linear.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/plots/scatter.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/plots/simple.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvc/plots/smooth.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/.dvcignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Census.py" beforeDir="false" afterPath="$PROJECT_DIR$/Census.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_model.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,23 +92,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="136">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
                 <element signature="e#119#146#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="57" selection-start-column="57" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -178,9 +152,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="47" />
-    <option name="width" value="2034" />
-    <option name="height" value="1158" />
+    <option name="y" value="65" />
+    <option name="width" value="1792" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -267,8 +241,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="2048" height="1180" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="2048" height="1174" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11692156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -419,20 +392,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#119#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="57" selection-start-column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#119#146#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
